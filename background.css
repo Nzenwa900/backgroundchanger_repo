@@ -1,0 +1,13 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 300px;
+}
+.change-btn {
+    background-color: black;
+    color: white;
+
+}
